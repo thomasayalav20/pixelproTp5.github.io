@@ -43,14 +43,18 @@ Procesar formularios con los métodos GET y POST, validar los datos y registrar 
 
 
 
+
+## Evidencias fotográficas (capturas reales)
+
 ### Búsqueda con GET
 
-![Búsqueda con GET](../capturas%20de%20limon/capturas%20%20ayala%20tp5/tp5-get.png)
+![Búsqueda con GET](tp5-get.png)
 
 ### Formulario con POST
 
-![Formulario con POST](../capturas%20de%20limon/capturas%20%20ayala%20tp5/tp5-post.png)
+![Formulario con POST](tp5-post.png)
 
 ### Datos registrados en MySQL
 
-![Datos registrados en MySQL](../capturas%20de%20limon/capturas%20%20ayala%20tp5/tp5-mysql.png)
+![Datos registrados en MySQL](tp5-mysql.png)
+
